@@ -215,7 +215,7 @@ www.google.ch
 www.google.ci
 www.google.cl
 www.google.cm
-www.google.cn @cn
+www.google.cn
 www.google.co
 www.google.co.ao
 www.google.co.bw
