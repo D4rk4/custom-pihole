@@ -24,7 +24,7 @@ google.ch
 google.ci
 google.cl
 google.cm
-google.cn @cn
+google.cn
 google.co
 google.co.ao
 google.co.bw
